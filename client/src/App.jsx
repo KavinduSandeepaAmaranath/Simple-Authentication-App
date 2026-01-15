@@ -3,12 +3,14 @@ import Login from "./pages/Login.jsx";
 import Register from "./pages/Register.jsx";
 
 function App() {
-  <BrowserRouter>
-    <Routes>
-      <Route path="/" element={<Login />}/>
-      <Route path="/register" element={<Register />} />
-    </Routes>
-  </BrowserRouter>
+  return (
+    <BrowserRouter>
+      <Routes>
+        <Route path="/" element={<Login />} />
+        <Route path="/register" element={<Register />} />
+      </Routes>
+    </BrowserRouter>
+  );
 }
 
 export default App;

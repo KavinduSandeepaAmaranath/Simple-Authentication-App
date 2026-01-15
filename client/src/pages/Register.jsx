@@ -27,9 +27,18 @@ function Register() {
                 <button className="w-full bg-green-600 text-white py-2 rounded hover:bg-green-700">
                     Register
                 </button>
+
+                <p className="text-sm mt-3 text-center">
+                    Already have an account?{""}
+                    <a href="/" className="text-blue-600 hover:underline">
+                        Login
+                    </a>
+                </p>
             </form>
         </div>
+
     );
+    
 }
 
 export default Register;

@@ -21,6 +21,13 @@ function Login () {
                 <button className="w-full bg-blue-600 text-white py-2 rounded hover:bg-blue-700">
                     Login
                 </button>
+
+                <p className="text-sm mt-3 text-center">
+                    Don't have an account?{" "}
+                    <a href="/register" className="text-blue-600 hover:underline">
+                        Register
+                    </a>
+                </p>
             </form>
         </div>
     );

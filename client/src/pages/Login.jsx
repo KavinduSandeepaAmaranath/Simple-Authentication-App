@@ -1,4 +1,4 @@
-import { useState } from "react";
+import { use, useState } from "react";
 import axios from "axios";
 
 function Login () {
@@ -49,7 +49,7 @@ function Login () {
                     placeholder="Password"
                     className="w-full p-2 mb-4 border rounded"
                     value={password}
-                    onChange={(e) => (e.target.value)}
+                    onChange={(e) => setPassword(e.target.value)}
                 />
 
                 <button 

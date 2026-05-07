@@ -32,6 +32,12 @@ This project includes user registration, login, JWT authentication, and protecte
 
 ---
 
+## ⚙️ Setup Backend
+
+### 1️⃣ Navigate to backend folder
+
+---
+
 ## 🔗 API Endpoints
 
 ### Auth Routes

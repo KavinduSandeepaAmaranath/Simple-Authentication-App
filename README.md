@@ -14,3 +14,5 @@ OAuth login (Google, GitHub)
 Refresh token implementation
 Improved UI/UX design
 Input validation and error handling improvement
+
+---

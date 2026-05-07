@@ -54,6 +54,15 @@ MONGO_URI=your_mongodb_connection_string
 JWT_SECRET=your_secret_key
 ```
 
+### 4️⃣ Start backend server
+```bash
+node server.js
+```
+- Backend runs on:
+  ```bash
+  http://localhost:5000
+  ```
+
 ---
 
 ## 🔗 API Endpoints

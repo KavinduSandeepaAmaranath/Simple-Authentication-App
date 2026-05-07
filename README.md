@@ -65,6 +65,26 @@ node server.js
 
 ---
 
+## 💻 Setup Frontend
+
+### 1️⃣ Navigate to frontend folder
+```bash
+cd client
+```
+### 2️⃣ Install dependencies
+```bash
+npm install
+```
+### 3️⃣ Start frontend server
+```bash
+npm run dev
+```
+- Frontend runs on:
+```bash
+http://localhost:5173
+```
+---
+
 ## 🔗 API Endpoints
 
 ### Auth Routes

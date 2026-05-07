@@ -80,9 +80,9 @@ npm install
 npm run dev
 ```
 - Frontend runs on:
-```bash
-http://localhost:5173
-```
+  ```bash
+  http://localhost:5173
+  ```
 ---
 
 ## 🔗 API Endpoints

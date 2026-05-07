@@ -36,8 +36,10 @@ This project includes user registration, login, JWT authentication, and protecte
 
 ### 1️⃣ Navigate to backend folder
 
-``bash
+```bash
 cd server
+
+```
 
 ---
 

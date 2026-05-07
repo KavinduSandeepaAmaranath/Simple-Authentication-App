@@ -38,8 +38,15 @@ This project includes user registration, login, JWT authentication, and protecte
 
 ```bash
 cd server
-
 ```
+
+### 2️⃣ Install dependencies
+
+```bash
+npm install
+```
+
+### 3️⃣ Create .env file
 
 ---
 

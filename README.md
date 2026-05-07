@@ -45,12 +45,12 @@ This project includes user registration, login, JWT authentication, and protecte
 
 # 🚀 Future Improvements
 
-Email verification system
-Password reset functionality
-Role-based authentication (Admin/User)
-OAuth login (Google, GitHub)
-Refresh token implementation
-Improved UI/UX design
-Input validation and error handling improvement
+- Email verification system
+- Password reset functionality
+- Role-based authentication (Admin/User)
+- Auth login (Google, GitHub)
+- Refresh token implementation
+- Improved UI/UX design
+- Input validation and error handling improvement
 
 ---

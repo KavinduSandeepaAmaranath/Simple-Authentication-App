@@ -1,39 +1,33 @@
-# 🔐 MERN Authentication System
+# 🔐 Simple Authentication System (MERN Stack)
 
-A full-stack authentication system built using the MERN stack (MongoDB, Express, React, Node.js). This project includes user registration, login, and basic authentication features.
-
----
-
-## 🚀 Features
-
-- User Registration
-- User Login
-- Password Hashing (secure storage)
-- JWT Authentication
-- Protected Routes (optional)
-- REST API backend
-- Responsive frontend (React)
-
----
-
-## 🛠️ Tech Stack
-
-### Frontend
-- React.js
-- Axios
-- React Router
-
-### Backend
-- Node.js
-- Express.js
-
-### Database
-- MongoDB (Mongoose)
-
-### Authentication
-- JSON Web Tokens (JWT)
-- bcrypt (for password hashing)
+A full-stack authentication system built using **React, Node.js, Express, and MongoDB**.  
+This project includes user registration, login, JWT authentication, and protected backend APIs.
 
 ---
 
 ## 📁 Project Structure
+
+SIMPLE-AUTHENTICATION/
+│
+├── client/ # Frontend (React)
+│ ├── public/
+│ ├── src/
+│ │ ├── components/
+│ │ ├── pages/
+│ │ ├── services/
+│ │ ├── App.jsx
+│ │ ├── main.jsx
+│ │ └── index.css
+│ ├── package.json
+│ └── vite.config.js
+│
+├── server/ (or "sever") # Backend (Node + Express)
+│ ├── config/
+│ ├── controllers/
+│ ├── models/
+│ ├── routes/
+│ ├── .env
+│ ├── server.js
+│ └── package.json
+│
+└── README.md

@@ -5,29 +5,12 @@ This project includes user registration, login, JWT authentication, and protecte
 
 ---
 
-## 📁 Project Structure
+# 🚀 Future Improvements
 
-SIMPLE-AUTHENTICATION/
-│
-├── client/ # Frontend (React)
-│ ├── public/
-│ ├── src/
-│ │ ├── components/
-│ │ ├── pages/
-│ │ ├── services/
-│ │ ├── App.jsx
-│ │ ├── main.jsx
-│ │ └── index.css
-│ ├── package.json
-│ └── vite.config.js
-│
-├── server/ (or "sever") # Backend (Node + Express)
-│ ├── config/
-│ ├── controllers/
-│ ├── models/
-│ ├── routes/
-│ ├── .env
-│ ├── server.js
-│ └── package.json
-│
-└── README.md
+Email verification system
+Password reset functionality
+Role-based authentication (Admin/User)
+OAuth login (Google, GitHub)
+Refresh token implementation
+Improved UI/UX design
+Input validation and error handling improvement
